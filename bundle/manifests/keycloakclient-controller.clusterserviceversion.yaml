@@ -55,6 +55,7 @@ spec:
       version: v1alpha1
   description: Operator to handle KeycloakClients
   displayName: Keycloakclient-Operator
+  minKubeVersion: 1.32.0
   icon:
   - base64data: ""
     mediatype: ""
